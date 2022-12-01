@@ -45,3 +45,4 @@ clang
 -I./FreeRTOSv202112.00/FreeRTOS-Plus/Source/FreeRTOS-Plus-Trace/trcStreamingRecorder.c
 -I./FreeRTOSv202112.00/FreeRTOS-Plus/Source/FreeRTOS-Plus-Trace/streamports/File/trcStreamingPort.c
 
+-I./src/core/
